@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CryptoTracker</string>
+    <string name="error_request_timeout">Request Time Out</string>
+    <string name="error_too_many_requests">OOPS Too many Requests</string>
+    <string name="error_no_internet">Hey Bro Turn On Internet</string>
+    <string name="error_server_error">Something Went Wrong, Please Try again later</string>
+    <string name="error_unknown">Unknown error</string>
 </resources>
