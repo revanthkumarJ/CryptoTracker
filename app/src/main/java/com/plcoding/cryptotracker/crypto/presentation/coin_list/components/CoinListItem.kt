@@ -105,7 +105,7 @@ internal var previewCoin=Coin(
     rank=1,
     symbol="BTC",
     name="BitCoin",
-    marketCapUSD = 4464464.76,
+    marketCapUsd = 4464464.76,
     priceUsd = 56785322.67,
     changePercent24Hr = 0.10
 )
